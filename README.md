@@ -1,4 +1,5 @@
-configs
+Configuration files
 =======
 
-Config files
+- .vimrc - VIM configuration file
+  .zshrc - ZSH configuration file
