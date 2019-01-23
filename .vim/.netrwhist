@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ziviani/ziviani/lab/arduino/libraries/cartoy'
+let g:netrw_dirhist_2='/home/ziviani/ziviani/lab/arduino'
+let g:netrw_dirhist_3='/home/ziviani/virt/qemu/hw/ppc'
+let g:netrw_dirhist_4='/home/ziviani/.vim/ftplugin'
+let g:netrw_dirhist_5='/home/ziviani/.config/systemd'
+let g:netrw_dirhist_6='/home/ziviani/ziviani/volt/test'
+let g:netrw_dirhist_7='/home/ziviani/ziviani/interview/waes/hamming_distance/lib'
+let g:netrw_dirhist_8='/home/ziviani/ziviani/volt/test'
+let g:netrw_dirhist_9='/home/ziviani/ziviani/volt/build'

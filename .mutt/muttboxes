@@ -1,0 +1,1 @@
+mailboxes `find ~/.mutt/mailboxes/email -type d -name cur -not -empty -printf '%h '`
